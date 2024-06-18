@@ -1,0 +1,14 @@
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\bin\Debug\net8.0\Milkbar Icecream managment.exe
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\bin\Debug\net8.0\Milkbar Icecream managment.deps.json
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\bin\Debug\net8.0\Milkbar Icecream managment.runtimeconfig.json
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\bin\Debug\net8.0\Milkbar Icecream managment.dll
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\bin\Debug\net8.0\Milkbar Icecream managment.pdb
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.AssemblyInfoInputs.cache
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.AssemblyInfo.cs
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.dll
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\refint\Milkbar Icecream managment.dll
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.pdb
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\Milkbar Icecream managment.genruntimeconfig.cache
+H:\Programming\Lab 21\Milkbar Icecream managment\Milkbar Icecream managment\obj\Debug\net8.0\ref\Milkbar Icecream managment.dll
