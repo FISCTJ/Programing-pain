@@ -1,0 +1,14 @@
+H:\Programming\Lab 18\Menu Method\Menu Method\bin\Debug\net8.0\Menu Method.exe
+H:\Programming\Lab 18\Menu Method\Menu Method\bin\Debug\net8.0\Menu Method.deps.json
+H:\Programming\Lab 18\Menu Method\Menu Method\bin\Debug\net8.0\Menu Method.runtimeconfig.json
+H:\Programming\Lab 18\Menu Method\Menu Method\bin\Debug\net8.0\Menu Method.dll
+H:\Programming\Lab 18\Menu Method\Menu Method\bin\Debug\net8.0\Menu Method.pdb
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.AssemblyInfoInputs.cache
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.AssemblyInfo.cs
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.dll
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\refint\Menu Method.dll
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.pdb
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\Menu Method.genruntimeconfig.cache
+H:\Programming\Lab 18\Menu Method\Menu Method\obj\Debug\net8.0\ref\Menu Method.dll

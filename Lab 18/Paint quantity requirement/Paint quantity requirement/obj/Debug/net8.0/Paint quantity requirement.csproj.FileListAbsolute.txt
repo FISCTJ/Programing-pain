@@ -1,0 +1,14 @@
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\bin\Debug\net8.0\Paint quantity requirement.exe
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\bin\Debug\net8.0\Paint quantity requirement.deps.json
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\bin\Debug\net8.0\Paint quantity requirement.runtimeconfig.json
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\bin\Debug\net8.0\Paint quantity requirement.dll
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\bin\Debug\net8.0\Paint quantity requirement.pdb
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.AssemblyInfoInputs.cache
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.AssemblyInfo.cs
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.dll
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\refint\Paint quantity requirement.dll
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.pdb
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\Paint quantity requirement.genruntimeconfig.cache
+H:\Programming\Lab 18\Paint quantity requirement\Paint quantity requirement\obj\Debug\net8.0\ref\Paint quantity requirement.dll

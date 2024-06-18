@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question Methods", "Question Methods\Question Methods.csproj", "{C7AE7F10-125E-4331-8ED6-E86C6007B48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AE7F10-125E-4331-8ED6-E86C6007B48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AE7F10-125E-4331-8ED6-E86C6007B48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AE7F10-125E-4331-8ED6-E86C6007B48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AE7F10-125E-4331-8ED6-E86C6007B48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA106E23-2648-4F15-A276-F993ECC7D6C9}
+	EndGlobalSection
+EndGlobal

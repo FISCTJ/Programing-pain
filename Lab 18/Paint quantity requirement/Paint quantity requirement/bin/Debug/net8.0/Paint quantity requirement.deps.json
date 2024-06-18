@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Paint quantity requirement/1.0.0": {
+        "runtime": {
+          "Paint quantity requirement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paint quantity requirement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.AssemblyInfoInputs.cache
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.AssemblyInfo.cs
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 18\Question Methods\Question Methods\bin\Debug\net8.0\Question Methods.exe
+H:\Programming\Lab 18\Question Methods\Question Methods\bin\Debug\net8.0\Question Methods.deps.json
+H:\Programming\Lab 18\Question Methods\Question Methods\bin\Debug\net8.0\Question Methods.runtimeconfig.json
+H:\Programming\Lab 18\Question Methods\Question Methods\bin\Debug\net8.0\Question Methods.dll
+H:\Programming\Lab 18\Question Methods\Question Methods\bin\Debug\net8.0\Question Methods.pdb
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.dll
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\refint\Question Methods.dll
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.pdb
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\Question Methods.genruntimeconfig.cache
+H:\Programming\Lab 18\Question Methods\Question Methods\obj\Debug\net8.0\ref\Question Methods.dll
