@@ -1,0 +1,14 @@
+H:\Programming\Lab 20\Swap Method\Swap Method\bin\Debug\net8.0\Swap Method.exe
+H:\Programming\Lab 20\Swap Method\Swap Method\bin\Debug\net8.0\Swap Method.deps.json
+H:\Programming\Lab 20\Swap Method\Swap Method\bin\Debug\net8.0\Swap Method.runtimeconfig.json
+H:\Programming\Lab 20\Swap Method\Swap Method\bin\Debug\net8.0\Swap Method.dll
+H:\Programming\Lab 20\Swap Method\Swap Method\bin\Debug\net8.0\Swap Method.pdb
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.AssemblyInfoInputs.cache
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.AssemblyInfo.cs
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.dll
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\refint\Swap Method.dll
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.pdb
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\Swap Method.genruntimeconfig.cache
+H:\Programming\Lab 20\Swap Method\Swap Method\obj\Debug\net8.0\ref\Swap Method.dll

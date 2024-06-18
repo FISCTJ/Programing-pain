@@ -1,0 +1,14 @@
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\bin\Debug\net8.0\Swapping three numbers.exe
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\bin\Debug\net8.0\Swapping three numbers.deps.json
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\bin\Debug\net8.0\Swapping three numbers.runtimeconfig.json
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\bin\Debug\net8.0\Swapping three numbers.dll
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\bin\Debug\net8.0\Swapping three numbers.pdb
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.AssemblyInfoInputs.cache
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.AssemblyInfo.cs
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.dll
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\refint\Swapping three numbers.dll
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.pdb
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\Swapping three numbers.genruntimeconfig.cache
+H:\Programming\Lab 20\Swapping three numbers\Swapping three numbers\obj\Debug\net8.0\ref\Swapping three numbers.dll
