@@ -1,0 +1,14 @@
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.AssemblyInfoInputs.cache
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.AssemblyInfo.cs
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 19\Value return methods\Value return methods\bin\Debug\net8.0\Value return methods.exe
+H:\Programming\Lab 19\Value return methods\Value return methods\bin\Debug\net8.0\Value return methods.deps.json
+H:\Programming\Lab 19\Value return methods\Value return methods\bin\Debug\net8.0\Value return methods.runtimeconfig.json
+H:\Programming\Lab 19\Value return methods\Value return methods\bin\Debug\net8.0\Value return methods.dll
+H:\Programming\Lab 19\Value return methods\Value return methods\bin\Debug\net8.0\Value return methods.pdb
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.dll
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\refint\Value return methods.dll
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.pdb
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\Value return methods.genruntimeconfig.cache
+H:\Programming\Lab 19\Value return methods\Value return methods\obj\Debug\net8.0\ref\Value return methods.dll
