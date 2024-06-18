@@ -1,0 +1,7 @@
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.AssemblyInfoInputs.cache
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.AssemblyInfo.cs
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.dll
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\refint\Bubble sort Icecreams.dll
+H:\Programming\Lab 24\Bubble sort Icecreams\Bubble sort Icecreams\obj\Debug\net8.0\Bubble sort Icecreams.pdb

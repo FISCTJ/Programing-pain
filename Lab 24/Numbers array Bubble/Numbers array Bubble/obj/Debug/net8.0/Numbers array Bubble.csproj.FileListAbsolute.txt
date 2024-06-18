@@ -1,0 +1,8 @@
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\bin\Debug\net8.0\Numbers array Bubble.exe
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.AssemblyInfoInputs.cache
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.AssemblyInfo.cs
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.dll
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\refint\Numbers array Bubble.dll
+H:\Programming\Lab 24\Numbers array Bubble\Numbers array Bubble\obj\Debug\net8.0\Numbers array Bubble.pdb
