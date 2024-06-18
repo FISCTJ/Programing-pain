@@ -1,0 +1,14 @@
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\bin\Debug\net8.0\Ice cream adding.exe
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\bin\Debug\net8.0\Ice cream adding.deps.json
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\bin\Debug\net8.0\Ice cream adding.runtimeconfig.json
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\bin\Debug\net8.0\Ice cream adding.dll
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\bin\Debug\net8.0\Ice cream adding.pdb
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.AssemblyInfoInputs.cache
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.AssemblyInfo.cs
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.dll
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\refint\Ice cream adding.dll
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.pdb
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\Ice cream adding.genruntimeconfig.cache
+H:\Programming\Lab 23\Ice cream adding\Ice cream adding\obj\Debug\net8.0\ref\Ice cream adding.dll

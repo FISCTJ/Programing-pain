@@ -1,0 +1,14 @@
+H:\Programming\Lab 23\Icecream padding\Icecream padding\bin\Debug\net8.0\Icecream padding.exe
+H:\Programming\Lab 23\Icecream padding\Icecream padding\bin\Debug\net8.0\Icecream padding.deps.json
+H:\Programming\Lab 23\Icecream padding\Icecream padding\bin\Debug\net8.0\Icecream padding.runtimeconfig.json
+H:\Programming\Lab 23\Icecream padding\Icecream padding\bin\Debug\net8.0\Icecream padding.dll
+H:\Programming\Lab 23\Icecream padding\Icecream padding\bin\Debug\net8.0\Icecream padding.pdb
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.AssemblyInfoInputs.cache
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.AssemblyInfo.cs
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.dll
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\refint\Icecream padding.dll
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.pdb
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\Icecream padding.genruntimeconfig.cache
+H:\Programming\Lab 23\Icecream padding\Icecream padding\obj\Debug\net8.0\ref\Icecream padding.dll
