@@ -1,0 +1,14 @@
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\bin\Debug\net8.0\First 10 multiples.exe
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\bin\Debug\net8.0\First 10 multiples.deps.json
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\bin\Debug\net8.0\First 10 multiples.runtimeconfig.json
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\bin\Debug\net8.0\First 10 multiples.dll
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\bin\Debug\net8.0\First 10 multiples.pdb
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.AssemblyInfoInputs.cache
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.AssemblyInfo.cs
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.dll
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\refint\First 10 multiples.dll
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.pdb
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\First 10 multiples.genruntimeconfig.cache
+H:\Programming\Lab 22\First 10 multiples\First 10 multiples\obj\Debug\net8.0\ref\First 10 multiples.dll

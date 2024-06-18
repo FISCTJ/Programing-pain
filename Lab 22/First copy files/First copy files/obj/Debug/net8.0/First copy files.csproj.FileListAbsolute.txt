@@ -1,0 +1,14 @@
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.AssemblyInfoInputs.cache
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.AssemblyInfo.cs
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.csproj.CoreCompileInputs.cache
+H:\Programming\Lab 22\First copy files\First copy files\bin\Debug\net8.0\First copy files.exe
+H:\Programming\Lab 22\First copy files\First copy files\bin\Debug\net8.0\First copy files.deps.json
+H:\Programming\Lab 22\First copy files\First copy files\bin\Debug\net8.0\First copy files.runtimeconfig.json
+H:\Programming\Lab 22\First copy files\First copy files\bin\Debug\net8.0\First copy files.dll
+H:\Programming\Lab 22\First copy files\First copy files\bin\Debug\net8.0\First copy files.pdb
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.dll
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\refint\First copy files.dll
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.pdb
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\First copy files.genruntimeconfig.cache
+H:\Programming\Lab 22\First copy files\First copy files\obj\Debug\net8.0\ref\First copy files.dll
